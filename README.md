@@ -2,9 +2,9 @@
 
 # ASSIGNMENT
 For the attached data set, calculate the following:
- # 1) Average delivery time for each product type (fcl,lcl, etc) for each month in 2023
-# 2) tp90 delivery time for each product type (fcl,lcl, etc) for each month in 2023
-# 3) No. of customers with at least 1 delivery
+**1) Average delivery time for each product type (fcl,lcl, etc) for each month in 2023**
+**2) tp90 delivery time for each product type (fcl,lcl, etc) for each month in 2023**
+**3) No. of customers with at least 1 delivery**
 
 Delivery time is defined as:
 Delivered Date - [Quote Accept (or) Booking Confirmed date]
